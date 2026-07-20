@@ -4,6 +4,7 @@
 
 -- Business Question:
 -- Show each employee along with their department.
+-- show the details .
 
 SELECT
     e.emp_name,
