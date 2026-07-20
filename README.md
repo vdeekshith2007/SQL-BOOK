@@ -266,7 +266,7 @@ Every numbered module is self-contained: read its own README, run its queries ag
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/theammarngp-makes/SQL-Engineering-Handbook.git
+git clone https://github.com/vdeekshith2007/SQL-BOOK.git
 cd SQL-Engineering-Handbook
 
 # 2. Load a practice dataset (start with the core sample database)
@@ -383,10 +383,10 @@ Licensed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
 ## Author
 
-**Mohammad Ammar**
+**vataparthi deekshith**
 Aspiring Data Analyst · SQL Enthusiast · Data Storyteller
 
-[LinkedIn](https://linkedin.com/in/theammarngp) · [GitHub](https://github.com/theammarngp-makes)
+[LinkedIn](https://linked-in.com/in/vataparthi-deekshith) · [GitHub](https://github.com/vdeekshith2007)
 
 ---
 
