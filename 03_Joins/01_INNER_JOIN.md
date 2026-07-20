@@ -6,6 +6,9 @@ INNER JOIN returns only the matching rows from both tables.
 
 If there is no match, the row is excluded from the result.
 
+
+JOINS IN SQL : INNER,LEFT,RIGHT,FULL,OUTER 
+
 ---
 
 ## Syntax
