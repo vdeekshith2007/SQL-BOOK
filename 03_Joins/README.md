@@ -1,5 +1,9 @@
 # 03 — SQL Joins
 
+
+
+
+
 > **Module 3 of the SQL Engineering Handbook**
 > Real-world data never lives in one table. This module teaches you to connect it.
 
@@ -12,6 +16,7 @@
 ---
 
 ## 📑 Table of Contents
+### joins
 
 - [Overview](#-overview)
 - [Topics Covered](#-topics-covered)
@@ -49,7 +54,7 @@ This is the module where SQL stops being about *one table* and starts being abou
 | 02 | **LEFT JOIN** | Return all rows from the left table, matched or not | [`02_LEFT_JOIN.md`](./02_LEFT_JOIN.md) · [`02_LEFT_JOIN.sql`](./02_LEFT_JOIN.sql) |
 | 03 | **RIGHT JOIN** | Return all rows from the right table, matched or not | [`03_RIGHT_JOIN.md`](./03_RIGHT_JOIN.md) · [`03_RIGHT_JOIN.sql`](./03_RIGHT_JOIN.sql) |
 
-### Intermediate
+### Intermediate 
 
 | No. | Topic | Description | Files |
 |----|-------|--------------|-------|
@@ -177,6 +182,9 @@ Interviewers frequently test this by asking you to **predict row counts** before
 - ✅ Use table aliases for every join (`e.employee_id`, not just `employee_id`) to avoid ambiguity
 - ✅ Join on indexed, well-typed foreign keys — never join on unindexed text columns if you can avoid it
 - ✅ When chaining multiple joins, build and test them one join at a time, not all five at once
+- ✅ Watch row counts after each join — an unexpected increase usually means a one-to-many relationship you didn't account for
+
+
 - ✅ Watch row counts after each join — an unexpected increase usually means a one-to-many relationship you didn't account for
 
 ---
