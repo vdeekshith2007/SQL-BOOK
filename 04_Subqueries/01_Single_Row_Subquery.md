@@ -48,3 +48,4 @@ Use scalar operators only when the subquery returns one value.
 
 1. Find employees whose emp_id is greater than average emp_id.
 2. Find employees whose emp_id is less than average emp_id.
+3. Find employees whose emp_id is equal to average emp_id.
