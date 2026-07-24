@@ -395,3 +395,4 @@ Aspiring Data Analyst · SQL Enthusiast · Data Storyteller
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,100:2563eb"/>
+----------------------------------------------------***************-----------------------------------------.
