@@ -5,6 +5,7 @@ This document defines the standards for every SQL file, markdown document, and c
 ---
 
 ## Table of Contents
+## table is created in database
 
 - [Purpose](#purpose)
 - [Repository Principles](#repository-principles)
