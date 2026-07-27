@@ -1,4 +1,5 @@
 # Repository Architecture
+## The document should be in sql engineering handbook progress.
 
 This document explains how the SQL Engineering Handbook is organized, why it is structured this way, and how the different components interact. It is written for contributors, maintainers, and curious learners who want to understand the reasoning behind the repository design.
 
