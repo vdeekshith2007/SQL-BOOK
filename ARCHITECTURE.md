@@ -6,6 +6,7 @@ This document explains how the SQL Engineering Handbook is organized, why it is 
 ---
 
 ## Table of Contents
+### admin of table of comments are commits
 
 - [Repository Philosophy](#repository-philosophy)
 - [Architectural Goals](#architectural-goals)
