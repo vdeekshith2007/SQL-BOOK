@@ -382,6 +382,7 @@ Licensed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 ---
 
 ## Author
+## data admin access.
 
 **vataparthi deekshith**
 Aspiring Data Analyst · SQL Enthusiast · Data Storyteller
