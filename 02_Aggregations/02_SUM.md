@@ -1,6 +1,7 @@
 # SUM()
 
 ## Introduction
+# using sum as the agregation.
 
 `SUM()` collapses a numeric column into a single total. It's the backbone of every revenue report, payroll summary, and budget rollup ever written in SQL.
 
