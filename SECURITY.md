@@ -2,7 +2,7 @@
 ## proper authourization and proper authentication is required for data basemangemnt.
 
 ## Overview
-
+## the database which created have the security policy and maaintain the certain authuorization and proper uthentication for the user.
 The **SQL Engineering Handbook** is an open-source educational repository. It contains SQL queries, schemas, markdown documentation, and analytical examples built on a self-designed three-table schema (`employees`, `departments`, `locations`). This file outlines how security concerns are handled in the context of this project.
 
 > **Note:** This repository is an educational project and is not intended for production database deployments. Any SQL examples that modify data are clearly labeled and should only be executed in controlled learning environments.
