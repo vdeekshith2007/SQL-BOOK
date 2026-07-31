@@ -1,7 +1,7 @@
 # INNER JOIN
 
 ## Definition
-
+## matching of two rows or columns from the both table.
 INNER JOIN returns only the matching rows from both tables.
 
 If there is no match, the row is excluded from the result.
