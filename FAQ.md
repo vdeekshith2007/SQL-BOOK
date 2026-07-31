@@ -28,6 +28,9 @@ The SQL Engineering Handbook is a **production-ready learning resource** with 10
 
 **Skill Level:** Beginner to Intermediate (progressing to Advanced)
 
+
+**data scientist** - should maintain the data encrypted and searrch to grab the data through out the oranisation .
+
 ---
 
 ### How is this different from other SQL resources?
