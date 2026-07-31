@@ -2,6 +2,8 @@
 
 ## Introduction
 
+## argresstions like count(),sum(),avg(),min(),max(),group_by(),order_by(),having(),where().etc.
+
 `COUNT()` answers the single most common question asked of any dataset: *how many?* It's usually the first aggregate function anyone writes, and it's also the one most often used incorrectly — the difference between `COUNT(*)`, `COUNT(column)`, and `COUNT(DISTINCT column)` trips up even experienced engineers under interview pressure.
 
 ## Learning Objectives
