@@ -16,6 +16,9 @@ Whether you've:
 
 ## How to Get Featured
 
+
+## geting the contibutiion with the sql-enginner to create the powerful databases like redis,nosql,and postgresql etc 
+
 Every contribution matters! To be featured as a contributor:
 
 1. **Submit a Pull Request** with your contribution
