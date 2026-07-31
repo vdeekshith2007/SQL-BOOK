@@ -304,7 +304,7 @@ Bookmark the repo and jump directly to the numbered module matching the syntax y
 </details>
 
 ---
-
+## following the ceratin guide lines to get and create the database.
 ## Sample Query
 
 **Salary ranking with window functions** *(from `07_WINDOW_FUNCTIONS/`)*
