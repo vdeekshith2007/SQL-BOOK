@@ -2,6 +2,9 @@
 
 This document defines the standards for every SQL file, markdown document, and code block in the SQL Engineering Handbook. All contributors must follow these standards. These rules exist to maintain consistency, readability, and professionalism across the entire repository.
 
+
+# having the proper guideline and grabing the multiple choose to get the knowledege the sql indexing commands
+
 ---
 
 ## Table of Contents
