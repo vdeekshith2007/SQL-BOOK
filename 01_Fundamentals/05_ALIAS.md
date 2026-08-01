@@ -4,6 +4,10 @@
 
 An alias gives a column or table a temporary name for the duration of a query. Column aliases make output more readable; table aliases make multi-table queries (joins, subqueries) shorter and less repetitive.
 
+
+An alias gives a column or table a temporary name for the duration of a query. Column aliases make output more readable; table aliases make multi-table queries (joins, subqueries) shorter and less repetitive.
+
+
 ---
 
 ## Syntax

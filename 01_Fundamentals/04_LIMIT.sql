@@ -4,6 +4,14 @@
 -- Q1
 -- Show first 3 employees (by emp_id, ascending)
 
+
+
+-- TOPIC: LIMIT
+-- Dataset: employes, departments (see README.md for schema + sample data)
+
+-- Q1
+-- Show first 3 employees (by emp_id, ascending)
+
 SELECT *
 FROM employes
 ORDER BY emp_id

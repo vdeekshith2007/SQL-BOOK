@@ -1,10 +1,24 @@
--- TOPIC: ALIAS
--- Dataset: employes, departments (see README.md for schema + sample data)
 
 -- Q1
 -- Rename emp_name column for a report header
+-- TOPIC: ALIAS
+-- Dataset: employes, departments (see README.md for schema + sample data)
+
+
+
+
+
+
+-- Q1
+-- Rename emp_name column for a report header
+-- TOPIC: ALIAS
+-- Dataset: employes, departments (see README.md for schema + sample data)
 
 SELECT
+
+
+
+
     emp_name AS employee_name
 FROM employes;
 

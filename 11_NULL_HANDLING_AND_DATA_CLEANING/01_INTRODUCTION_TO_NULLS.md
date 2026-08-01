@@ -4,6 +4,11 @@
 
 Before you can clean data, you need to understand what "missing" actually means to SQL. NULL is the single most misunderstood concept in the language — not because it's complicated syntactically, but because it doesn't behave like a normal value. This chapter builds the mental model everything else in this module depends on.
 
+
+
+
+Before you can clean data, you need to understand what "missing" actually means to SQL. NULL is the single most misunderstood concept in the language — not because it's complicated syntactically, but because it doesn't behave like a normal value. This chapter builds the mental model everything else in this module depends on.
+
 ## Concept Overview
 
 NULL represents the **absence of a known value**. It is not zero. It is not an empty string. It is not "false." It means: *this value is unknown, not applicable, or not yet recorded.*
