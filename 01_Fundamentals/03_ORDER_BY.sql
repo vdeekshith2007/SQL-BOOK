@@ -8,7 +8,7 @@ ORDER BY emp_name;
 
 -- Business Question:
 -- Show employees from highest ID to lowest ID.
-
+-- making the record int asc or desc
 SELECT *
 FROM employes
 ORDER BY emp_id DESC;

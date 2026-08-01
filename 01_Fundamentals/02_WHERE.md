@@ -6,6 +6,14 @@ The `WHERE` clause is used to filter rows based on a specified condition.
 
 It helps retrieve only the records that satisfy a given requirement before any grouping or aggregation occurs.
 
+
+
+
+
+The `WHERE` clause is used to filter rows based on a specified condition.
+
+It helps retrieve only the records that satisfy a given requirement before any grouping or aggregation occurs.
+
 ---
 
 ## Syntax

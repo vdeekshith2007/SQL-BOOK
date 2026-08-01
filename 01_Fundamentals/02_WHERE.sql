@@ -3,7 +3,7 @@
 
 -- Q1
 -- Find employees from department 2
-
+--filtering the record in the database
 SELECT *
 FROM employes
 WHERE dept_id = 2;

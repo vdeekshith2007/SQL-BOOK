@@ -1,6 +1,6 @@
 # SELECT
 
-## Definition
+## Definition -sql is a database container which retrive the data and manipulate the data.
 
 The `SELECT` statement retrieves data from one or more columns in a table. It is the starting point of virtually every SQL query — before you can filter, sort, or aggregate anything, you first have to tell SQL which columns you want to see.
 

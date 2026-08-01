@@ -4,6 +4,17 @@
 -- Q1
 -- Show all employee names
 
+
+
+
+
+
+-- TOPIC: SELECT
+-- Dataset: employes (see README.md for schema + sample data)
+
+-- Q1
+-- Show all employee names
+
 SELECT emp_name
 FROM employes;
 

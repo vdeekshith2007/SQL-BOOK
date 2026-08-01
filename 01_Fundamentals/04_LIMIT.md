@@ -2,7 +2,14 @@
 
 ## Definition
 
-`LIMIT` restricts the number of rows a query returns. It's applied after every other clause — `FROM`, `WHERE`, `GROUP BY`, `HAVING`, `SELECT`, and `ORDER BY` all run first, and `LIMIT` simply truncates the final result set.
+`
+
+LIMIT` restricts the number of rows a query returns. It's applied after every other clause — `FROM`, `WHERE`, `GROUP BY`, `HAVING`, `SELECT`, and `ORDER BY` all run first, and `LIMIT` simply truncates the final result set.
+
+
+
+
+LIMIT` restricts the number of rows a query returns. It's applied after every other clause — `FROM`, `WHERE`, `GROUP BY`, `HAVING`, `SELECT`, and `ORDER BY` all run first, and `LIMIT` simply truncates the final result set.
 
 ---
 

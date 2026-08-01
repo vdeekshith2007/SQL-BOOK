@@ -1,5 +1,7 @@
 -- DATABASE SCHEMA
 
+-- database schema as the contribution 
+
 CREATE TABLE employes (
     emp_id INT PRIMARY KEY,
     emp_name VARCHAR(50),

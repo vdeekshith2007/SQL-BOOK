@@ -1,4 +1,4 @@
-
+--- insering values in database-----
 INSERT INTO departments VALUES
 (1,'Data Analytics',1),
 (2,'Engineering',2),

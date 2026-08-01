@@ -6,6 +6,14 @@ The `ORDER BY` clause is used to sort query results in ascending (`ASC`) or desc
 
 By default, SQL sorts data in ascending order.
 
+
+
+
+The `ORDER BY` clause is used to sort query results in ascending (`ASC`) or descending (`DESC`) order.
+
+By default, SQL sorts data in ascending order.
+
+
 ---
 
 ## Why Use ORDER BY?
