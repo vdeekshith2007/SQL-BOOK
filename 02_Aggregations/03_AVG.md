@@ -1,7 +1,7 @@
 # AVG()
 
 ## Introduction
-
+# using average for database to sort and retrive
 `AVG()` returns the arithmetic mean of a numeric column. It looks trivial and is one of the most misused aggregate functions in production reporting — mostly because of how it interacts with `NULL`.
 
 ## Learning Objectives
