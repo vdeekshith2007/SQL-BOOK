@@ -99,6 +99,22 @@ HAVING
 -- Question: Show the full duplicate rows for review.
 -- ------------------------------------------------------------
 
+
+
+
+
+
+-- ------------------------------------------------------------
+-- SCENARIO 3
+-- Business Context:
+--   Before deleting, the team wants to see the FULL duplicate
+--   rows themselves, not just the order_ref and count, to
+--   confirm the rows really are redundant and not two
+--   legitimately separate orders that happen to share a
+--   reference number.
+-- Question: Show the full duplicate rows for review.
+-- ------------------------------------------------------------
+
 SELECT
     o.*
 FROM

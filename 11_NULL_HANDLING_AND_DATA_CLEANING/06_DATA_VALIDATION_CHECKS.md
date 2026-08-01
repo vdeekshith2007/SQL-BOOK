@@ -51,6 +51,8 @@ Raw / Incoming Data
 WHERE required_column IS NULL
 
 -- Orphaned foreign key
+
+--foreign key
 SELECT c.*
 FROM child_table c
 LEFT JOIN parent_table p ON c.parent_id = p.id

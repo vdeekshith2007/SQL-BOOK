@@ -36,7 +36,7 @@ SELECT COUNT(DISTINCT full_name) AS reported_unique_customers
 FROM retail_customers;
 -- Returns 5 - full_name differs by casing/spacing, so DISTINCT
 -- treats each variant as a separate customer.
-
+-- enginerring notes
 -- STEP 2 - Diagnostic query: standardize and re-check
 SELECT
     LOWER(TRIM(email)) AS standardized_email,
