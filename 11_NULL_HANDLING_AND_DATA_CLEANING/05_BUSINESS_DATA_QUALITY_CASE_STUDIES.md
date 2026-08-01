@@ -52,6 +52,8 @@ Typical Data Quality Investigation Flow
 
 This chapter is scenario-driven rather than syntax-driven — see the accompanying SQL file for the full worked queries. It combines syntax already introduced in files 01–04: `IS NULL`/`IS NOT NULL`, `COALESCE`, `NULLIF`, `TRIM`, `REPLACE`, `UPPER`/`LOWER`, `GROUP BY ... HAVING`, and `ROW_NUMBER()`.
 
+This chapter is scenario-driven rather than syntax-driven — see the accompanying SQL file for the full worked queries. It combines syntax already introduced in files 01–04: `IS NULL`/`IS NOT NULL`, `COALESCE`, `NULLIF`, `TRIM`, `REPLACE`, `UPPER`/`LOWER`, `GROUP BY ... HAVING`, and `ROW_NUMBER()`.
+
 ## Detailed Explanation
 
 Each case study in the accompanying SQL file follows the same shape: a stated business question, a diagnostic query that reveals the underlying data quality issue, and a corrected query that answers the original business question correctly. This mirrors how real investigations are documented — not just "here's the fix," but "here's the evidence for why the fix is needed."

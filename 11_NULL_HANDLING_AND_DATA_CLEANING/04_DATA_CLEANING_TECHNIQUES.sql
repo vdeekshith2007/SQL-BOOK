@@ -50,6 +50,7 @@ FROM
     orders_raw;
 
 -- Engineering Notes:
+-- the case is the exmape of the sql progerss 
 --   The CASE branches must be ordered from most specific to
 --   least specific check that still resolves correctly: NULL is
 --   checked first since none of the other conditions can safely
