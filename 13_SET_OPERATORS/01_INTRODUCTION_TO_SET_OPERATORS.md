@@ -5,7 +5,7 @@
 Up to this point, every query you've written has answered one question against one logical result set. This file introduces a different kind of question: **"How do two or more result sets relate to each other?"** That is the question set operators answer.
 
 ## Concept Overview
-
+# view the update resolution 
 A set operator takes two (or more) `SELECT` statements that produce **the same shape** of result — same number of columns, compatible data types — and combines them according to set theory:
 
 | Operator | Meaning | Analogy |

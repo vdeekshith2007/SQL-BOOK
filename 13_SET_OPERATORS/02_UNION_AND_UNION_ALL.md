@@ -11,6 +11,9 @@
 
 The only difference is de-duplication. Everything else — column rules, naming, `ORDER BY` placement — is identical between them.
 
+
+the data base is confirmed set are updated
+
 ## Why This Exists
 
 Not every "combine these two result sets" problem has the same duplicate-handling requirement. Sometimes duplicates across the two sources are noise (the same city listed twice because two teams both maintain an office list) — `UNION` is correct. Sometimes duplicates are the entire point (two identical $50 transactions on the same card on the same day are two real events, not one) — `UNION ALL` is correct. SQL gives you both because business reality demands both.

@@ -9,6 +9,12 @@
    demonstrate the first correct, production-style UNION query — combining
    two structurally identical single-column result sets into one report.
 
+
+   objective 
+   ---------------------------
+-  Create a single reference list of every named entity in the org chart
+
+
    DATASET
    -------
    departments(dept_id, dept_name, location_id, budget)

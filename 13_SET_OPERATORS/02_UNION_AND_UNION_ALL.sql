@@ -9,6 +9,14 @@
    into production-quality reporting logic, and use them to demonstrate the
    measurable difference between the two operators.
 
+
+   Audit, correct, and expand a set of hand-written UNION / UNION ALL queries
+   into production-quality reporting logic, and use them to demonstrate the
+   measurable difference between the two operators.
+
+
+   
+
    AUDIT NOTES ON THE SOURCE QUERIES PROVIDED
    -------------------------------------------
    1. The source table was referenced as `employes` — corrected to the
