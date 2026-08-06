@@ -46,6 +46,9 @@ Typical Data Quality Investigation Flow
               ▼
 5. Re-run the original business question against
    cleaned data, and document what changed and why
+
+
+6. stop the data base progress   
 ```
 
 ## Syntax

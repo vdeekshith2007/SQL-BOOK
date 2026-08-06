@@ -32,6 +32,9 @@ INSERT INTO retail_customers (customer_id, full_name, email) VALUES
 (5, 'karan  bose',      'karan.bose@mail.com');  -- same person, duplicate web signup
 
 -- STEP 1 - Reproduce the reported (flawed) number
+
+
+--- step 2 -reproduce 
 SELECT COUNT(DISTINCT full_name) AS reported_unique_customers
 FROM retail_customers;
 -- Returns 5 - full_name differs by casing/spacing, so DISTINCT

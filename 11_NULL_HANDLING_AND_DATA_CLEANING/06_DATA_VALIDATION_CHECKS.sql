@@ -8,6 +8,21 @@
 -- ENGINE      : MySQL 8.0 (PostgreSQL notes included where behavior differs)
 -- ============================================================
 
+
+
+
+
+-- ============================================================
+-- MODULE      : 11 - NULL Handling and Data Cleaning
+-- TOPIC       : 06 - Data Validation Checks
+-- OBJECTIVE   : Write proactive validation queries that catch
+--               orphaned foreign keys, invalid dates, negative
+--               values, and impossible ages before they reach
+--               a reporting layer.
+-- ENGINE      : MySQL 8.0 (PostgreSQL notes included where behavior differs)
+-- ============================================================
+
+
 DROP TABLE IF EXISTS validation_customers;
 CREATE TABLE validation_customers (
     customer_id   INT PRIMARY KEY,
