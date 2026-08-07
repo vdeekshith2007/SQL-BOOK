@@ -3,7 +3,21 @@
 **Module:** 14 — Views
 **Previous:** [README](README.md) · **Next:** [02 — Creating Views](02_CREATING_VIEWS.md)
 
+
+
+
+
 ---
+
+## Learning Objectives
+
+- Define a View at the SQL-standard level and at the MySQL storage-engine level
+- Explain why a View is not a copy of data
+- Understand the difference between a View, a table, a CTE, and a derived table
+- Recognize the business problems Views solve
+
+
+
 
 ## Learning Objectives
 

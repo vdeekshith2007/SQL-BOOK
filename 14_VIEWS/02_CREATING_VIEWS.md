@@ -12,6 +12,15 @@
 - Rename View columns explicitly and know when it's required
 - Alter and drop Views safely
 
+
+## Learning Objectives
+
+- Use full `CREATE VIEW` syntax including options MySQL exposes
+- Understand `CREATE OR REPLACE` vs `DROP` + `CREATE`
+- Rename View columns explicitly and know when it's required
+- Alter and drop Views safely
+
+
 ## Concept Overview
 
 Creating a View is syntactically simple; the engineering decisions live in the options around it — algorithm hints, security context, and column naming — which is why this file separates *creation mechanics* from the business-logic examples in Module 01.

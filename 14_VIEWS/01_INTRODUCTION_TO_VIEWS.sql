@@ -79,6 +79,12 @@ CREATE TABLE finance_transactions (
 -- SEED DATA (production-scale patterns, small volume for lab purposes)
 -- -----------------------------------------------------------------------------
 
+
+
+-- -----------------------------------------------------------------------------
+-- SEED DATA (production-scale patterns, small volume for lab purposes)
+-- -----------------------------------------------------------------------------
+
 INSERT INTO sales_customers VALUES
     (1, 'Meridian Retail Group', 'APAC', '2021-03-14'),
     (2, 'Northbridge Logistics', 'EMEA', '2020-11-02'),

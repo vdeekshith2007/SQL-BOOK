@@ -40,6 +40,10 @@ SELECT * FROM vw_headcount_by_department ORDER BY headcount DESC;
 -- report. This is a common interview trap.
 
 -- Redefining a View safely (idempotent redeploy)
+
+
+
+-- creating a virtual views of the data base
 CREATE OR REPLACE VIEW vw_headcount_by_department
     (department_name, region, headcount) AS
 SELECT

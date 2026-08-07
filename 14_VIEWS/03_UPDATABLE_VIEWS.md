@@ -12,6 +12,9 @@
 - Use `WITH CHECK OPTION` to prevent silent data-integrity violations
 - Explain the difference between `CASCADED` and `LOCAL` check options
 
+
+## learning the data base analysisiss
+
 ## Concept Overview
 
 Some Views can be written through — an `UPDATE`, `INSERT`, or `DELETE` against the View propagates to the underlying base table. MySQL determines updatability structurally, based on the View's defining query, not based on any flag you set.

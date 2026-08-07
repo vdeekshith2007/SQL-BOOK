@@ -16,6 +16,8 @@
 
 Because a View can expose a subset of columns and rows without granting access to the underlying table at all, it's one of the simplest and most widely used access-control mechanisms in production databases — no separate masked table to keep in sync, no application-layer filtering to maintain.
 
+....  fileing the security updates using the progressive learning of data bsae 
+
 ## Why This Exists
 
 Direct table grants are all-or-nothing per column visibility (MySQL does support column-level `GRANT`, but it's clumsy to maintain at scale). A View lets you define exactly what a role can see — specific columns, specific rows — as a single reusable object, and grant access to *that*, never to the base table.

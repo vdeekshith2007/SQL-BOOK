@@ -16,6 +16,12 @@
 
 This is the file that turns "I know View syntax" into "I can be trusted with View design in production." The performance characteristics of a View are entirely determined by which of MySQL's two processing algorithms the optimizer chooses — and that choice is driven by the View's SQL shape, not by anything you configure at query time.
 
+
+
+## Concept Overview
+
+This is the file that turns "I know View syntax" into "I can be trusted with View design in production." The performance characteristics of a View are entirely determined by which of MySQL's two processing algorithms the optimizer chooses — and that choice is driven by the View's SQL shape, not by anything you configure at query time.
+
 ## Why This Exists
 
 Teams that nest Views casually — a View built on a View built on a View — routinely discover, only under production load, that a query which looked fine in testing degrades badly at scale because each aggregating layer forces materialization into an unindexed temporary table.
