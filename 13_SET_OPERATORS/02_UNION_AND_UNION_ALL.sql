@@ -15,6 +15,10 @@
    measurable difference between the two operators.
 
 
+
+   make the union queries more readable and correct any mistakes in the original queries.
+
+
    
 
    AUDIT NOTES ON THE SOURCE QUERIES PROVIDED

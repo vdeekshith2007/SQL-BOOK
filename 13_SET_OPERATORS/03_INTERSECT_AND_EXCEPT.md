@@ -4,6 +4,13 @@
 
 If `UNION` answers "what's the combined picture?", `INTERSECT` and `EXCEPT` answer the two questions that matter most in reconciliation work: **"what do these two sets have in common?"** and **"what's missing from one side?"** These are the operators behind every migration audit, every reconciliation report, and every "did we lose any data?" question.
 
+
+
+if the union ,intersecr,except .
+-- intersect both having commmon elemnts.
+--union both having all element without duplicates
+--union all it should represents including all duplicates
+
 ## Concept Overview
 
 - **`INTERSECT`** — returns only the rows that appear in **both** branches.
