@@ -111,3 +111,4 @@ For Data Analyst interviews:
 5. Build projects that demonstrate SQL in real-world scenarios.
 
 Strong SQL + Business Thinking > Memorizing Syntax.
+**** learning rate of data base to store the manging commits in the databse

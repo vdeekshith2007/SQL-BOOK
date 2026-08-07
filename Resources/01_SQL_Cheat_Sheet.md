@@ -144,3 +144,9 @@ ROW_NUMBER → Unique Ranking
 RANK → Ranking With Gaps
 
 DENSE_RANK → Ranking Without Gaps
+
+-- special commands----
+
+where->filtering the record
+having -> filtering the where clause in the progress of data base administrator
+order-> desc,asc in order of low to high or high to low in the desired order  

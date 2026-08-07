@@ -121,3 +121,4 @@ Build strong SQL skills for:
 - Data Science
 - Internship Interviews
 - Real-world Analytics Projects
+- manging the large data base in the secure data base administrator

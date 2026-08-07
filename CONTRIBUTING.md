@@ -6,6 +6,9 @@ First off, thank you for considering contributing to the SQL Engineering Handboo
 
 This is a community-driven project, and we welcome contributions from everyone—whether you're a SQL expert or just starting out. Every contribution helps other developers learn and grow.
 
+
+# deekshith sql preaparing a proper material getting skill in data base management
+
 ---
 
 ## Table of Contents
