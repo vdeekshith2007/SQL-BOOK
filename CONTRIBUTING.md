@@ -23,7 +23,8 @@ This is a community-driven project, and we welcome contributions from everyone�
 
 ## Ways to Contribute
 
-### 1. 🌍 Translate Queries to Other SQL Dialects
+### 1. 🌍 Translate Queries to Other SQL Dialects.
+1.detect the data normalization.
 
 **The Goal:** Make the handbook useful for developers using different databases.
 
