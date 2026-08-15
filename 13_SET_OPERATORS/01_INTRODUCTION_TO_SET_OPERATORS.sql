@@ -3,7 +3,7 @@
    Topic 01 — Introduction to Set Operators
    ============================================================================
 
-   BUSINESS OBJECTIVE
+   BUSINESS OBJECTIVE analysis
    -------------------
    Establish the foundational schema used across this entire module and
    demonstrate the first correct, production-style UNION query — combining
