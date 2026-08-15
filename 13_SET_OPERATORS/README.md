@@ -1,5 +1,5 @@
 # Module 13 — Set Operators
-
+-create operater info
 > Combine, compare, and reconcile result sets using `UNION`, `UNION ALL`, `INTERSECT`, and `EXCEPT`/`MINUS` — the tools behind every migration audit, multi-source report, and data reconciliation pipeline.
 
 ## Why Set Operators Matter
