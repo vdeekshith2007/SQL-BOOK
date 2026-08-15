@@ -150,3 +150,5 @@ DENSE_RANK → Ranking Without Gaps
 where->filtering the record
 having -> filtering the where clause in the progress of data base administrator
 order-> desc,asc in order of low to high or high to low in the desired order  
+
+order are updated 
