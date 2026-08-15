@@ -1,6 +1,6 @@
 # 01 — Introduction to Set Operators
 
-## Introduction
+## Introduction -sql
 
 Up to this point, every query you've written has answered one question against one logical result set. This file introduces a different kind of question: **"How do two or more result sets relate to each other?"** That is the question set operators answer.
 
