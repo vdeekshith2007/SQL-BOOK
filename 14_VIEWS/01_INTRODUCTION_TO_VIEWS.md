@@ -31,7 +31,7 @@
 ## Concept Overview
 
 A **View** is a named, stored `SELECT` statement that behaves like a table for querying purposes. It has a schema (column names and types, inherited from its defining query) and can be queried, joined, and filtered like a table — but it stores no rows of its own. Every time you query a View, MySQL re-runs (or expands) the underlying `SELECT` against the current state of the base tables.
-
+---  
 ```
 CREATE VIEW vw_name AS
 SELECT ...
