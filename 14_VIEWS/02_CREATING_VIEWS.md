@@ -10,7 +10,7 @@
 - Use full `CREATE VIEW` syntax including options MySQL exposes
 - Understand `CREATE OR REPLACE` vs `DROP` + `CREATE`
 - Rename View columns explicitly and know when it's required
-- Alter and drop Views safely
+- Alter and drop Views safely  update the (alter and drop )
 
 
 ## Learning Objectives
