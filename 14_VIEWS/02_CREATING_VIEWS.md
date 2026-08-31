@@ -19,7 +19,7 @@
 - Understand `CREATE OR REPLACE` vs `DROP` + `CREATE`
 - Rename View columns explicitly and know when it's required
 - Alter and drop Views safely
-
+- drop the table 
 
 ## Concept Overview
 
