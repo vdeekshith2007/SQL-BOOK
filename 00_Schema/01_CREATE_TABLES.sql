@@ -1,6 +1,6 @@
 -- DATABASE SCHEMA
 
--- database schema as the contribution 
+-- database schema as the contribution setup  
 
 CREATE TABLE employes (
     emp_id INT PRIMARY KEY,
