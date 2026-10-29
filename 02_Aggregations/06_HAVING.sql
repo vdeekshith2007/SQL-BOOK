@@ -58,8 +58,8 @@ HAVING SUM(salary) > 100000;
 -- --------------------------------------------------------------
 -- Q4: Business Scenario — Combining WHERE and HAVING correctly
 -- Problem: Compensation review should only consider departments
--- with assigned employees (exclude the NULL-department bucket via
--- WHERE), and only surface departments where the average salary
+-- with assigned employees (exclude the NULL-department bucket via   
+-- WHERE), and only surface departments where the average salary      
 -- exceeds $50,000 (via HAVING).
 -- --------------------------------------------------------------
 
