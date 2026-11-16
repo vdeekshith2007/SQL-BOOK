@@ -1,8 +1,8 @@
 # Common Table Expressions (CTEs)
 
-## Overview
+## Overview     
 
-Common Table Expressions (CTEs) are temporary named result sets created using the `WITH` clause. They help simplify complex SQL queries by breaking them into smaller, logical, and reusable building blocks.
+Common Table Expressions (CTEs) are temporary updates  named result sets created using the `WITH` clause. They help simplify complex SQL queries by breaking them into smaller, logical, and reusable building blocks.
 
 Instead of writing deeply nested subqueries, CTEs improve readability, maintainability, and debugging, making them one of the most valuable SQL features for Data Analysts and Data Scientists.
 
