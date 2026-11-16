@@ -34,6 +34,18 @@ SELECT
 FROM table_name;
 ```
 
+
+
+
+## Syntax
+
+```sql
+SELECT
+    column_a,
+    column_b,
+    ROW_NUMBER() OVER (ORDER BY sort_column) AS row_seq
+FROM table_name;
+```
 ## Dataset Used
 
 `employes` (emp_id, emp_name, dept_id, manager_id)
