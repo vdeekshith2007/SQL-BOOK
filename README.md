@@ -3,7 +3,7 @@
   <img src="assets/banners/readme-banner.png" alt="SQL Engineering Handbook Banner" width="100%">
 </p>
 
-<h1 align="center">SQL Engineering Handbook</h1>
+<h1 align="center">SQL Engineering Handbook</h1>      
 
 <p align="center">
   <b>A production-style SQL curriculum — from your first SELECT to analytics engineering, interview prep, and real business case studies.</b>
