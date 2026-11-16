@@ -23,7 +23,7 @@ This document explains how the SQL Engineering Handbook is organized, why it is 
 
 ---
 
-## Repository Philosophy
+## Repository Philosophy   
 
 ### Why This Project Exists
 
