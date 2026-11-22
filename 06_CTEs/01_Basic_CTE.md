@@ -10,7 +10,7 @@ without creating a physical table?
 See 01_Basic_CTE.sql
 
 ## Explanation
-
+    
 A CTE acts as a temporary table that exists only
 during query execution.
 
