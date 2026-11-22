@@ -54,8 +54,8 @@ Returns all rows from left table and matching from right .
 SELECT *
 FROM employees e
 LEFT JOIN departments d
-ON e.dept_id = d.dept_id;
-```
+ON e.dept_id = d.dept_id;   
+```    
 ----------------
 
 Subquery Rules
